@@ -1,5 +1,5 @@
 # ss-pybullet
-STRIPStream + pybullet
+STRIPStream + pybullet + examples
 
 <!--![Alt text](images/test.png?raw=true "Title")-->
 <!--img src="images/pr2.png" height="300">&emsp;<img src="images/kuka.png" height="300"-->
